@@ -20,8 +20,8 @@ int main()
     printf("\n the index of the number is %d \n",ind);
 
     }
-
-
+//version 2
+//ver2.1
 
 
 
