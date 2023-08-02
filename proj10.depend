@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689413742 source:d:\cpp codeblocks files\proj10\student.c
+	"student.h"
+
+1689413494 d:\cpp codeblocks files\proj10\student.h
+
+1689413712 source:d:\cpp codeblocks files\proj10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
